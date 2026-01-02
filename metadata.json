@@ -1,0 +1,7 @@
+{
+  "name": "Smart Textbook Reader with AI Assistant",
+  "description": "A comprehensive study tool that allows students to read textbooks, annotate them with drawing and highlighting tools, and use Gemini AI to generate exam-oriented notes and mock tests directly from the content.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
